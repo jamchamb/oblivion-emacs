@@ -65,7 +65,7 @@
 (defvar aluminium3 "#babdb6")
 (defvar aluminium4 "#888a85")
 (defvar aluminium5 "#555753")
-(defvar aluminium6 "#2e3436")
+(defvar aluminium6 "#1c1c1c")
 
 (defun color-theme-oblivion ()
   (interactive)
